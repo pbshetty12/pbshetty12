@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pbshetty12
-- 👀 I’m interested in cancer epidemiology, genetics, genomics, health disparities, pediatrics, and admixture.
+- 👀 I’m interested in cancer epidemiology, genetics, genomics, health disparities, and admixture.
 - 🌱 I’m currently learning bioinformatics tools that I can use in my research.
-- 💞️ I’m looking to collaborate on applications of tools to improve prevention and outcomes for pediatric cancer patients.
+- 💞️ I’m looking to collaborate on applications of tools to improve prevention and outcomes for cancer patients.
 - 📫 How to reach me priya.shetty@bcm.edu
 
 <!---
